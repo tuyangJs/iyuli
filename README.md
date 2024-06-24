@@ -1,7 +1,7 @@
 ### Hi! <a href="http://sns.hiveai.cc/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 我最近正在做蜂巢bot平台 :rofl:
 
-- 💬 &nbsp;社交平台欢迎联系我的QQ:1318707430
+- 💬 &nbsp;社交平台欢迎加入我的QQ群：703623743
 - 📫 &nbsp;邮箱地址：ihanlong@gmail.com、ituyang@foxmail.com
 
 
